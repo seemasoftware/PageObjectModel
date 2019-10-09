@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3274492f-5d8a-4f81-b22d-a5c1b6067135" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectObjectModel1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/CheckOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/EmailAFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/EmailAFriendSuccessfulPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/Flower_girl_bracelet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/GuestCheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/JewelleryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/LoadProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/OrderConfirmation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/RegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/RegistratonResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/ShoppingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NOPCommerce1/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/BrowserDriver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/BrowserDriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/Testdata/testdataConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NOPCommerce1/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NOPCommerce1/TestSuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/ProjectObjectModel1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/BrowserSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/CheckOutPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/EmailAFriend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/EmailAFriendSuccessfulPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/Flower_girl_bracelet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/GuestCheckOut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/JewelleryPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/LoadProps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/OrderConfirmation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/RegistrationPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/RegistratonResultPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/ShoppingPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NOPCommerce1/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BrowserDriver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BrowserDriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/NOPCommerce1/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/NOPCommerce1/TestSuit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Testdata/testdataConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Right/src/AdditionOfDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/out/production/Practice/Multiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/Multiplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java" beforeDir="false" afterPath="$PROJECT_DIR$/../java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/NOPCommerce1/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/BrowserSelector.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/LoadProps.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/RegistrationPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/RegistratonResultPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/flower_girl_bracelet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/HTCPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/EmailAFriend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/EmailAFriendSuccessfulPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/JewelleryPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/Flower_girl_bracelet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/ShoppingPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/CheckOutPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/OrderConfirmation.java" />
+        <option value="$PROJECT_DIR$/src/test/Resources/Testdata/testdataConfig.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/NOPCommerce1/GuestCheckOut.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NOPCommerce1/TestSuit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NOPCommerce1/BaseTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjectObjectModel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectObjectModel1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectObjectModel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectObjectModel1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectObjectModel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectObjectModel1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectObjectModel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectObjectModel1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectObjectModel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectObjectModel1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NOPCommerce1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectObjectModel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectObjectModel1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectObjectModel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectObjectModel1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectObjectModel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectObjectModel1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NOPCommerce1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectObjectModel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectObjectModel1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectObjectModel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectObjectModel1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="BrowserDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectObjectModel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectObjectModel1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Testdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\ProjectObjectModel1\src\test\Resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit.UserShouldAbleBuyProductAsAGuest">
+    <configuration name="TestSuit.RegisterUserShouldBeAbleToReferAProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectObjectModel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NOPCommerce1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NOPCommerce1" />
+      <option name="MAIN_CLASS_NAME" value="NOPCommerce1.TestSuit" />
+      <option name="METHOD_NAME" value="RegisterUserShouldBeAbleToReferAProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.UnregisterUserCanNotSendReferAProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectObjectModel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NOPCommerce1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NOPCommerce1" />
+      <option name="MAIN_CLASS_NAME" value="NOPCommerce1.TestSuit" />
+      <option name="METHOD_NAME" value="UnregisterUserCanNotSendReferAProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.UserShouldAbleBuyProductAsAGuest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectObjectModel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NOPCommerce1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NOPCommerce1" />
+      <option name="MAIN_CLASS_NAME" value="NOPCommerce1.TestSuit" />
+      <option name="METHOD_NAME" value="UserShouldAbleBuyProductAsAGuest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.UserShouldBeAbleTORegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectObjectModel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NOPCommerce1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NOPCommerce1" />
+      <option name="MAIN_CLASS_NAME" value="NOPCommerce1.TestSuit" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleTORegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.UserShouldBuyAProductSuccessfullyWithMasterCard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectObjectModel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NOPCommerce1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NOPCommerce1" />
+      <option name="MAIN_CLASS_NAME" value="NOPCommerce1.TestSuit" />
+      <option name="METHOD_NAME" value="UserShouldBuyAProductSuccessfullyWithMasterCard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit.UserShouldAbleBuyProductAsAGuest" />
+        <item itemvalue="TestNG.TestSuit.UserShouldBuyAProductSuccessfullyWithMasterCard" />
+        <item itemvalue="TestNG.TestSuit.UnregisterUserCanNotSendReferAProduct" />
+        <item itemvalue="TestNG.TestSuit.UserShouldBeAbleTORegisterSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.RegisterUserShouldBeAbleToReferAProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3274492f-5d8a-4f81-b22d-a5c1b6067135" name="Default Changelist" comment="" />
+      <created>1570551920064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570551920064</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSuit_UserShouldAbleBuyProductAsAGuest - 2019.10.09 at 19h 48m 44s.xml">
+      <configuration name="TestSuit.UserShouldAbleBuyProductAsAGuest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_UserShouldAbleBuyProductAsAGuest - 2019.10.09 at 19h 50m 54s.xml">
+      <configuration name="TestSuit.UserShouldAbleBuyProductAsAGuest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_UserShouldAbleBuyProductAsAGuest - 2019.10.09 at 19h 53m 29s.xml">
+      <configuration name="TestSuit.UserShouldAbleBuyProductAsAGuest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_UserShouldAbleBuyProductAsAGuest - 2019.10.09 at 19h 56m 22s.xml">
+      <configuration name="TestSuit.UserShouldAbleBuyProductAsAGuest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_UserShouldAbleBuyProductAsAGuest - 2019.10.09 at 19h 57m 24s.xml">
+      <configuration name="TestSuit.UserShouldAbleBuyProductAsAGuest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_UserShouldAbleBuyProductAsAGuest - 2019.10.09 at 20h 01m 31s.xml">
+      <configuration name="TestSuit.UserShouldAbleBuyProductAsAGuest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_UserShouldAbleBuyProductAsAGuest - 2019.10.09 at 20h 10m 00s.xml">
+      <configuration name="TestSuit.UserShouldAbleBuyProductAsAGuest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_UserShouldAbleBuyProductAsAGuest - 2019.10.09 at 20h 12m 43s.xml">
+      <configuration name="TestSuit.UserShouldAbleBuyProductAsAGuest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_UserShouldAbleBuyProductAsAGuest - 2019.10.09 at 20h 16m 05s.xml">
+      <configuration name="TestSuit.UserShouldAbleBuyProductAsAGuest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_UserShouldAbleBuyProductAsAGuest - 2019.10.09 at 20h 17m 54s.xml">
+      <configuration name="TestSuit.UserShouldAbleBuyProductAsAGuest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.80851066" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.95090014" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/NOPCommerce1/TestSuit.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/BrowserSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Testdata/ScreenShotUserShouldBeAbleTORegisterSuccessfully081019221036.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/LoadProps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/RegistrationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/HTCPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/Flower_girl_bracelet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/RegistratonResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/ShoppingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/JewelleryPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1822">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/EmailAFriendSuccessfulPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/EmailAFriend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="32" column="39" selection-start-line="31" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/GuestCheckOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/CheckOutPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/OrderConfirmation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NOPCommerce1/TestSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Testdata/testdataConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NOPCommerce1/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NOPCommerce1/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
